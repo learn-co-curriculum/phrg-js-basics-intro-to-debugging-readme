@@ -369,3 +369,4 @@ If it's any `console`-ation, we **all** make mistakes. Treat debugging as a lear
 [debugging zen]: https://curriculum-content.s3.amazonaws.com/web-development/js/basics/intro-to-debugging-readme/nick_parlante_debugging_zen_1996.pdf
 
 <p class='util--hide'>View <a href='https://learn.co/lessons/js-basics-intro-to-debugging-readme'>Intro to Debugging</a> on Learn.co and start learning to code for free.</p>
+<p data-visibility='hidden'>PHRG Intro to Debugging</p>

@@ -10,3 +10,5 @@ languages:
   - javascript
 resources:
   - 3
+
+parent_template: git@github.com:learn-co-curriculum/js-basics-intro-to-debugging-readme.git
