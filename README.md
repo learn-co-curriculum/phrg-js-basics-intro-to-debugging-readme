@@ -359,6 +359,10 @@ Debugging can sometimes feel very demoralizing. You'll fix one bug and ten new o
 
 If it's any `console`-ation, we **all** make mistakes. Treat debugging as a learning opportunity. Often, looking at your code critically and trying to figure out why something isn't working will afford you a much deeper understanding of how some feature of the language actually works. We'll continue to use the `console` object and other tools throughout this course. By the end, you'll be on your way to being a debugging master!
 
+## Does this need an update?
+
+Please open a [GitHub issue](https://github.com/learn-co-curriculum/phrg-js-basics-intro-to-debugging-readme/issues) or [pull-reqeust](https://github.com/learn-co-curriculum/phrg-js-basics-intro-to-debugging-readme/pulls). Provide a detailed description that explains the issue you have found or the change you are proposing. Then "@" mention your instructor on the issue or pull-reqeust, and send them a link via Connect.
+
 ## Resources
 - [MDN — Console][console]
 - [Wikipedia — Tracing (software)][tracing]
